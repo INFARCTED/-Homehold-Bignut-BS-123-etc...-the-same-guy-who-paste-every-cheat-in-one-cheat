@@ -1,85 +1,104 @@
 # -Homehold-Bignut-BS-123-etc...-the-same-guy-who-paste-every-cheat-in-one-cheat
 (Homehold, Bignut, BS, 123, etc...) the same guy who paste every cheat in one cheat
-# Homehold — The Ultimate Copy-Paste
+# Homehold — 100% Pasted Cheat
 
 > 🇬🇧 **English** · 🇫🇷 **Français**
 
 ---
 
-## 🇬🇧 English
+# 🇬🇧 English
 
-### The situation
+## The situation
 
-It becomes quite funny when you look closely and realize that **a huge portion of his features are remarkably similar to mine**:
+When you look closely at the project, **a huge number of its features are almost identical to mine**:
 
 * Damage animations
 * Custom kill feed
 * Bullet trajectory lines on players
 * Bullet trails
-* “Wireframe” mode — except his version apparently crashes constantly
-* Grenade prediction, including what appears to be the same prediction-limit issue
-* The top bar, which looks extremely similar to mine — just not as polished
-* And much more.
+* “Wireframe” mode
+* Grenade prediction
+* The same grenade prediction limit issue
+* A top bar extremely similar to mine
+* And many other features
 
-The simple version of the story is that, according to my observations, the project appears to have taken inspiration from / reproduced a large amount of functionality from my work.
-
-At one point, the project allegedly had access to my DLL before I moved everything to kernel mode. The similarities that followed are difficult to ignore.
-
-The result?
-
-**A massive copy-paste project combining features associated with nbot, Protogenesys and INFARCTED.**
-
-Three projects. One cheat.
+These are not just generic features from a cheat for the same game. The visual implementation, behavior and presentation of many of these features are extremely close to what was already present in my cheat.
 
 ### Compare the videos yourself
 
-You don't have to take my word for it.
+You can directly compare both videos.
 
-Simply compare the videos below and look at the features, UI elements, animations and overall behavior shown in both projects.
-
-**MAPLESENSE —  The 100% Pasted cheat**
+**MAPLESENSE — 100% Pasted Cheat**
 
 [Watch the MAPLESENSE video](https://www.youtube.com/watch?v=ILPls7zw7OQ)
 
-**My cheat — Black Ops 2 Plutonium Cheat, 100+ features**
+**My cheat — Black Ops 2 Plutonium Cheat (100+ Features)**
 
 [Watch my cheat video](https://www.youtube.com/watch?v=wrNdJMfnqvU&t=248s)
 
-When comparing the two videos side by side, the similarities between a large number of the features are, in my view, extremely difficult to overlook.
+The comparison speaks for itself.
 
-The point isn't simply that both projects are cheats for the same game. It's that **specific features, visual elements and behaviors appear remarkably close to each other**.
+Look at the UI, animations, bullet effects, trajectory lines, grenade prediction, wireframe mode and the overall behavior of the features.
 
-Judge the comparison yourself.
+A large number of these features are **nearly identical to the ones demonstrated in my own video**.
 
-### No credit where it's due
+---
 
-There is no meaningful credit given for the work that appears to have been reproduced.
+## The DLL
 
-I'm simply hoping the client eventually gets updated in a way that prevents this project from continuing to rely on the same implementation.
+Before moving my project entirely to kernel mode, my DLL was accessible.
 
-And if there is one thing that can be said about this whole situation:
+The current project reproduces a large number of features that were already present in my previous work.
 
-> **I've rarely seen a project combine this many apparently copied features into one place.**
+The situation becomes even more significant when considering the evidence below showing the old DLL being offered for sale after the cheat itself was no longer being updated.
 
-Congratulations, Homehold — BS, Bignut, 123... or whichever Discord account is being used this week.
+### Evidence
 
-Apparently there are enough accounts attempting to contact me or Isuk to repeatedly say things like:
+![Evidence 1](https://media.discordapp.net/attachments/1338471978230743051/1536669396863287367/image.png?ex=6abed226\&is=6abd80a6\&hm=55c0de3bab063fbb0a8849cba955a4689f63bb183afe76b55cf5b2134bc051d0&=\&format=webp\&quality=lossless)
 
-> “Look, this is my cheat.”
+![Evidence 2](https://media.discordapp.net/attachments/1456304177696477266/1536624777098170439/image.png?ex=6abea897\&is=6abd5717\&hm=ee328ec91a3f6d8c3c5257db3ed25fa2148e71cceb82caa044196a987348c93b&=\&format=webp\&quality=lossless)
 
-or
+![Evidence 3](https://media.discordapp.net/attachments/1456304177696477266/1536624777475653653/image.png?ex=6abea898\&is=6abd5718\&hm=ab3fef1c111c924079ff6a45ec64df7a1175b41733f4a30a805198eea638b348&=\&format=webp\&quality=lossless\&width=589\&height=1280)
 
-> “Can you give me some code?”
+![Evidence 4](https://cdn.discordapp.com/attachments/1456304177696477266/1536624777824047124/image.png?ex=6abea898\&is=6abd5718\&hm=f3ea3faa3ab7172f99f674bf865c2f7b3ba6e2532792647eef3255b082f29608&)
 
-At some point, the situation becomes more entertaining than anything else.
+![Evidence 5](https://media.discordapp.net/attachments/1456304177696477266/1536624778348077066/image.png?ex=6abea898\&is=6abd5718\&hm=3053b5a387daed4dba904b1ac3c82d4c807cd775feb885abd64cd6b24fe31e0e&=\&format=webp\&quality=lossless\&width=589\&height=1280)
 
-### Three years later...
+![Evidence 6](https://cdn.discordapp.com/attachments/1456304177696477266/1536624778704588830/image.png?ex=6abea898\&is=6abd5718\&hm=1e71ff82280c6946bbf516c1e2ff80300b77217b5f40f38c41729785f4e4588d&)
 
-After roughly three years, it is difficult to point to much original technical progress from the project itself, while there has been considerably more activity surrounding drama, accusations and attempts to throw around “DOX” claims.
+![Evidence 7](https://cdn.discordapp.com/attachments/1336828696069410866/1555042928559136878/image.png?backend=b2\&ex=6abf1615\&is=6abdc495\&hm=1288948d51a10de2cf0b397aabe4a368c24b94059e66c42de1421d0584fa55c5&)
 
-That is obviously a much different skill set than actually developing the software.
+---
 
-### The HvH
+## Discord accounts
+
+Below are the Discord accounts associated with Homehold that I have identified:
+
+![Discord accounts 1](https://cdn.discordapp.com/attachments/1338471978230743051/1547519232298983484/image.png?ex=6abebdd8\&is=6abd6c58\&hm=a884cd4bc18696fa8d02e1c679b5b565b0533316ce1d716e576efdc0fda822d5&)
+
+![Discord accounts 2](https://cdn.discordapp.com/attachments/1338471978230743051/1449743166474424425/E4FD4093-1AA0-4DD2-B619-240FC136B336.png?ex=6abefdc9\&is=6abdac49\&hm=56b288d73f771d6396e5656eab669df2a9b4bdb3a46d5b2e0e3c669344f0d618&)
+
+![Discord accounts 3](https://cdn.discordapp.com/attachments/1338471978230743051/1449743094600827023/3E06E1F9-CC00-4859-A690-AFE6EF00B910.png?ex=6abefdb8\&is=6abd6c38\&hm=f69083ab2ccdaf4f1b43cf444115308f87843106d6bc195486a8a0d873ac0513&)
+
+![Discord accounts 4](https://cdn.discordapp.com/attachments/1338471978230743051/1449742983338528879/00FD11C8-9B94-4410-828E-6E8CDA607BF2.png?ex=6abefd9e\&is=6abdac1e\&hm=73f4167c80b4745185b027acd5b46352fd0b0227e96cec7e655ffa30262b2c08&)
+
+These are the accounts I have identified and documented. This list is not intended to claim that every account shown is currently active.
+
+---
+
+## Selling the old DLL / Scam allegations
+
+The screenshots above document conversations and offers that I identify as attempts to sell my **old DLL** after the cheat was no longer being updated.
+
+They also document transactions and interactions that I consider evidence of **scamming users**.
+
+I am publishing the screenshots so that people can examine the evidence themselves rather than relying solely on my statements.
+
+The important point is that the DLL being offered is **not a new implementation**. It is an old version of my work.
+
+---
+
+## The HvH
 
 There was also an HvH against a friend of mine.
 
@@ -89,84 +108,119 @@ The final score:
 
 ![HvH Result](https://media.discordapp.net/attachments/1508903309145149576/1543008716952178698/image.png?ex=6abecfd9\&is=6abd7e59\&hm=2d6a5a761dd10e063274c65c69619f00398d52b8d2c5fd6e41bd61b7412ec502&=\&format=webp\&quality=lossless)
 
-*Screenshot provided as evidence of the reported HvH result.*
+---
+
+## The conclusion
+
+The comparison is straightforward:
+
+**My video → their video.**
+
+**My features → their features.**
+
+**My old DLL → allegedly being offered for sale.**
+
+**Multiple Discord accounts → documented.**
+
+**HvH result → 52–0.**
+
+People can compare the videos and screenshots themselves and draw their own conclusions.
 
 ---
 
-## 🇫🇷 Français
+# 🇫🇷 Français
 
-### La situation
+## La situation
 
-C’est assez drôle quand on regarde attentivement et qu’on se rend compte qu’**une énorme partie de ses fonctionnalités ressemble énormément aux miennes** :
+Quand on regarde attentivement le projet, **un très grand nombre de ses fonctionnalités sont quasiment identiques aux miennes** :
 
 * Animations de dégâts
 * Kill feed custom
 * Lignes de trajectoire des balles sur les joueurs
 * Bullet trails
-* Mode « wireframe » — sauf que sa version crash apparemment constamment
-* Prédiction de grenades, avec notamment un problème de limite de prédiction qui semble étrangement similaire
-* La barre en haut, qui ressemble énormément à la mienne — simplement moins travaillée
-* Et bien plus encore.
+* Mode « wireframe »
+* Prédiction de grenades
+* Le même problème de limite de prédiction
+* Une barre supérieure extrêmement similaire à la mienne
+* Et énormément d’autres fonctionnalités
 
-Pour résumer simplement, **d’après mes observations**, le projet semble avoir repris ou reproduit une grande quantité de fonctionnalités provenant de mon travail.
-
-À un moment donné, le projet aurait eu accès à mon DLL avant que je passe tout en kernel mode. Les similitudes apparues par la suite sont donc difficiles à ignorer.
-
-Le résultat ?
-
-**Un énorme projet de copier-coller mélangeant des fonctionnalités associées à nbot, Protogenesys et INFARCTED.**
-
-Trois projets. Un seul cheat.
+Il ne s’agit pas simplement de fonctionnalités génériques présentes sur deux cheats du même jeu. L’implémentation visuelle, le comportement et la présentation de nombreuses fonctionnalités sont **extrêmement proches de ce qui était déjà présent dans mon cheat**.
 
 ### Comparez les vidéos vous-même
 
-Pas besoin de me croire sur parole.
+Vous pouvez directement comparer les deux vidéos.
 
-Il suffit de comparer les deux vidéos ci-dessous et de regarder les fonctionnalités, les éléments d’interface, les animations et le comportement général présentés dans chacun des projets.
-
-**MAPLESENSE — Best Plutonium T6 Cheat**
+**MAPLESENSE — 100% Pasted Cheat**
 
 [Voir la vidéo de MAPLESENSE](https://www.youtube.com/watch?v=ILPls7zw7OQ)
 
-**Mon cheat — Black Ops 2 Plutonium Cheat, 100+ features**
+**Mon cheat — Black Ops 2 Plutonium Cheat (100+ Features)**
 
-[Voir la vidéo de mon cheat](https://www.youtube.com/watch?v=wrNdJMfnqvU&t=248s)
+[Voir ma vidéo](https://www.youtube.com/watch?v=wrNdJMfnqvU&t=248s)
 
-En comparant directement les deux vidéos, les similitudes entre un très grand nombre de fonctionnalités sont, à mon avis, extrêmement difficiles à ignorer.
+La comparaison parle d’elle-même.
 
-Le problème n’est pas simplement que les deux projets sont des cheats pour le même jeu. C’est surtout que **certaines fonctionnalités précises, certains éléments visuels et certains comportements semblent remarquablement proches**.
+Regardez l’interface, les animations, les effets des balles, les lignes de trajectoire, la prédiction de grenades, le mode wireframe et le comportement général des fonctionnalités.
 
-À chacun de regarder la comparaison et de se faire son propre avis.
+Un très grand nombre de ces fonctionnalités sont **quasiment identiques à celles présentées dans ma propre vidéo**.
 
-### Aucun crédit
+---
 
-Aucun crédit réellement significatif n'est donné pour le travail qui semble avoir été reproduit.
+## Le DLL
 
-J’espère simplement qu’une future mise à jour du client empêchera ce projet de continuer à fonctionner en s’appuyant sur les mêmes implémentations.
+Avant de passer entièrement mon projet en kernel mode, mon DLL était accessible.
 
-Et s’il y a une chose qu’on peut retenir de toute cette histoire :
+Le projet actuel reproduit un très grand nombre de fonctionnalités qui étaient déjà présentes dans mon ancien travail.
 
-> **Je vois rarement un projet réunir autant de fonctionnalités apparemment copiées au même endroit.**
+La situation devient encore plus importante lorsqu’on regarde les preuves ci-dessous montrant l’ancien DLL proposé à la vente après que le cheat lui-même n’était plus mis à jour.
 
-Félicitations à Homehold — BS, Bignut, 123... ou peu importe le compte Discord utilisé cette semaine.
+### Preuves
 
-Il semble y avoir suffisamment de comptes qui tentent de contacter Isuk ou moi-même pour répéter des messages du genre :
+![Preuve 1](https://media.discordapp.net/attachments/1338471978230743051/1536669396863287367/image.png?ex=6abed226\&is=6abd80a6\&hm=55c0de3bab063fbb0a8849cba955a4689f63bb183afe76b55cf5b2134bc051d0&=\&format=webp\&quality=lossless)
 
-> « Regardez, c’est mon cheat. »
+![Preuve 2](https://media.discordapp.net/attachments/1456304177696477266/1536624777098170439/image.png?ex=6abea897\&is=6abd5717\&hm=ee328ec91a3f6d8c3c5257db3ed25fa2148e71cceb82caa044196a987348c93b&=\&format=webp\&quality=lossless)
 
-ou
+![Preuve 3](https://media.discordapp.net/attachments/1456304177696477266/1536624777475653653/image.png?ex=6abea898\&is=6abd5718\&hm=ab3fef1c111c924079ff6a45ec64df7a1175b41733f4a30a805198eea638b348&=\&format=webp\&quality=lossless\&width=589\&height=1280)
 
-> « Vous pouvez me donner du code ? »
+![Preuve 4](https://cdn.discordapp.com/attachments/1456304177696477266/1536624777824047124/image.png?ex=6abea898\&is=6abd5718\&hm=f3ea3faa3ab7172f99f674bf865c2f7b3ba6e2532792647eef3255b082f29608&)
 
-À ce stade, la situation devient presque plus divertissante qu’autre chose.
+![Preuve 5](https://media.discordapp.net/attachments/1456304177696477266/1536624778348077066/image.png?ex=6abea898\&is=6abd5718\&hm=3053b5a387daed4dba904b1ac3c82d4c807cd775feb885abd64cd6b24fe31e0e&=\&format=webp\&quality=lossless\&width=589\&height=1280)
 
-### Trois ans plus tard...
+![Preuve 6](https://cdn.discordapp.com/attachments/1456304177696477266/1536624778704588830/image.png?ex=6abea898\&is=6abd5718\&hm=1e71ff82280c6946bbf516c1e2ff80300b77217b5f40f38c41729785f4e4588d&)
 
-Après environ trois ans, il est difficile de relever beaucoup de progression technique originale venant directement du projet, alors qu’il y a eu nettement plus d’activité autour des dramas, des accusations et des tentatives de balancer des histoires de « DOX ».
+![Preuve 7](https://cdn.discordapp.com/attachments/1336828696069410866/1555042928559136878/image.png?backend=b2\&ex=6abf1615\&is=6abd6c495\&hm=1288948d51a10de2cf0b397aabe4a368c24b94059e66c42de1421d0584fa55c5&)
 
-C’est évidemment une compétence assez différente du développement logiciel.
+---
 
-### Le HvH
+## Les comptes Discord
+
+Voici les comptes Discord associés à Homehold que j’ai identifiés :
+
+![Comptes Discord 1](https://cdn.discordapp.com/attachments/1338471978230743051/1547519232298983484/image.png?ex=6abebdd8\&is=6abd6c58\&hm=a884cd4bc18696fa8d02e1c679b5b565b0533316ce1d716e576efdc0fda822d5&)
+
+![Comptes Discord 2](https://cdn.discordapp.com/attachments/1338471978230743051/1449743166474424425/E4FD4093-1AA0-4DD2-B619-240FC136B336.png?ex=6abefdc9\&is=6abdac49\&hm=56b288d73f771d6396e5656eab669df2a9b4bdb3a46d5b2e0e3c669344f0d618&)
+
+![Comptes Discord 3](https://cdn.discordapp.com/attachments/1338471978230743051/1449743094600827023/3E06E1F9-CC00-4859-A690-AFE6EF00B910.png?ex=6abefdb8\&is=6abd6c38\&hm=f69083ab2ccdaf4f1b43cf444115308f87843106d6bc195486a8a0d873ac0513&)
+
+![Comptes Discord 4](https://cdn.discordapp.com/attachments/1338471978230743051/1449742983338528879/00FD11C8-9B94-4410-828E-6E8CDA607BF2.png?ex=6abefd9e\&is=6abdac1e\&hm=73f4167c80b4745185b027acd5b46352fd0b0227e96cec7e655ffa30262b2c08&)
+
+Ce sont les comptes que j’ai identifiés et documentés. Cette liste ne prétend pas déterminer lesquels sont actuellement actifs.
+
+---
+
+## Vente de l'ancien DLL / accusations de scam
+
+Les captures ci-dessus documentent des conversations et des offres que j’identifie comme des tentatives de vendre mon **ancien DLL** après que le cheat n’était plus mis à jour.
+
+Elles documentent également des transactions et interactions que je considère comme des éléments démontrant des **scams de clients**.
+
+Je publie ces captures afin que chacun puisse examiner les éléments lui-même plutôt que de simplement se fier à mes déclarations.
+
+Le point important est que le DLL proposé **n’est pas une nouvelle implémentation**. Il s’agit d’une ancienne version de mon travail.
+
+---
+
+## Le HvH
 
 Il y a également eu un HvH contre un ami à moi.
 
@@ -176,16 +230,30 @@ Le score final :
 
 ![Résultat HvH](https://media.discordapp.net/attachments/1508903309145149576/1543008716952178698/image.png?ex=6abecfd9\&is=6abd7e59\&hm=2d6a5a761dd10e063274c65c69619f00398d52b8d2c5fd6e41bd61b7412ec502&=\&format=webp\&quality=lossless)
 
-*Capture fournie comme preuve du résultat HvH rapporté.*
+---
+
+## Conclusion
+
+La comparaison est simple :
+
+**Ma vidéo → leur vidéo.**
+
+**Mes fonctionnalités → leurs fonctionnalités.**
+
+**Mon ancien DLL → proposé à la vente.**
+
+**Plusieurs comptes Discord → documentés.**
+
+**Résultat du HvH → 52–0.**
+
+Chacun peut comparer les vidéos et les captures et se faire son propre avis.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This document describes observations, opinions and allegations regarding similarities between projects.
-Les affirmations concernant l'origine du code ou d'éventuels accès à des fichiers sont présentées comme des allégations et ne constituent pas, à elles seules, une preuve indépendante de leur véracité.
+This README documents my observations, evidence and allegations concerning the project and its development.
 
-**English:** This README is intended as commentary and documentation of the author's observations.
+Ce README documente mes observations, les éléments que je présente comme preuves et mes accusations concernant le projet et son développement.
 
-**Français :** Ce README a pour objectif de documenter les observations de l’auteur et de présenter son point de vue sur la situation.
-
+The screenshots and videos are presented for documentation and comparison purposes. Claims concerning ownership, access to source code or DLLs, and fraudulent activity represent my position based on the evidence presented here.
