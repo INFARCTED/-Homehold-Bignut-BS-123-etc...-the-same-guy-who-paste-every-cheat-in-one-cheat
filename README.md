@@ -31,6 +31,26 @@ The result?
 
 Three projects. One cheat.
 
+### Compare the videos yourself
+
+You don't have to take my word for it.
+
+Simply compare the videos below and look at the features, UI elements, animations and overall behavior shown in both projects.
+
+**MAPLESENSE — Best Plutonium T6 Cheat**
+
+[Watch the MAPLESENSE video](https://www.youtube.com/watch?v=ILPls7zw7OQ)
+
+**My cheat — Black Ops 2 Plutonium Cheat, 100+ features**
+
+[Watch my cheat video](https://www.youtube.com/watch?v=wrNdJMfnqvU&t=248s)
+
+When comparing the two videos side by side, the similarities between a large number of the features are, in my view, extremely difficult to overlook.
+
+The point isn't simply that both projects are cheats for the same game. It's that **specific features, visual elements and behaviors appear remarkably close to each other**.
+
+Judge the comparison yourself.
+
 ### No credit where it's due
 
 There is no meaningful credit given for the work that appears to have been reproduced.
@@ -98,6 +118,26 @@ Le résultat ?
 
 Trois projets. Un seul cheat.
 
+### Comparez les vidéos vous-même
+
+Pas besoin de me croire sur parole.
+
+Il suffit de comparer les deux vidéos ci-dessous et de regarder les fonctionnalités, les éléments d’interface, les animations et le comportement général présentés dans chacun des projets.
+
+**MAPLESENSE — Best Plutonium T6 Cheat**
+
+[Voir la vidéo de MAPLESENSE](https://www.youtube.com/watch?v=ILPls7zw7OQ)
+
+**Mon cheat — Black Ops 2 Plutonium Cheat, 100+ features**
+
+[Voir la vidéo de mon cheat](https://www.youtube.com/watch?v=wrNdJMfnqvU&t=248s)
+
+En comparant directement les deux vidéos, les similitudes entre un très grand nombre de fonctionnalités sont, à mon avis, extrêmement difficiles à ignorer.
+
+Le problème n’est pas simplement que les deux projets sont des cheats pour le même jeu. C’est surtout que **certaines fonctionnalités précises, certains éléments visuels et certains comportements semblent remarquablement proches**.
+
+À chacun de regarder la comparaison et de se faire son propre avis.
+
 ### Aucun crédit
 
 Aucun crédit réellement significatif n'est donné pour le travail qui semble avoir été reproduit.
@@ -148,3 +188,4 @@ Les affirmations concernant l'origine du code ou d'éventuels accès à des fich
 **English:** This README is intended as commentary and documentation of the author's observations.
 
 **Français :** Ce README a pour objectif de documenter les observations de l’auteur et de présenter son point de vue sur la situation.
+
