@@ -37,7 +37,7 @@ You don't have to take my word for it.
 
 Simply compare the videos below and look at the features, UI elements, animations and overall behavior shown in both projects.
 
-**MAPLESENSE — Best Plutonium T6 Cheat**
+**MAPLESENSE —  The 100% Pasted cheat**
 
 [Watch the MAPLESENSE video](https://www.youtube.com/watch?v=ILPls7zw7OQ)
 
